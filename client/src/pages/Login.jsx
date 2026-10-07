@@ -107,12 +107,6 @@ function Login() {
             Sign up
           </Link>
         </p>
-
-        <p className="mt-4 text-center text-sm">
-          <Link to="/admin-login" className="font-semibold text-slate-700 hover:text-green-700">
-            Admin login
-          </Link>
-        </p>
       </form>
     </div>
   );
